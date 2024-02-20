@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot/ScreenShot2.png" width="50%" alt="Phone Mode + Light Theme">
+  <img src="Screenshot/Screenshot2.png" width="50%" alt="Phone Mode + Light Theme">
 </p>
 
 <p align="center">
