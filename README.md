@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot/ScreenShot1.jpg" width="50%" alt="حالت دسکتاپ + تم روشن">
+  <img src="Screenshot/Screenshot1.jpg" width="50%" alt="حالت دسکتاپ">
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot/Screenshot2.png" width="50%" alt="حالت موبایل + تم روشن">
+  <img src="Screenshot/Screenshot2.png" width="50%" alt="حالت موبایل ">
 </p>
