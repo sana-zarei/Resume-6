@@ -17,7 +17,7 @@
 </ul>
 
 <p align="center">
-  <strong>حالت دسکتاپ + تم روشن</strong>
+  <strong>حالت دسکتاپ</strong>
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-  <strong>حالت موبایل + تم روشن</strong>
+  <strong>حالت موبایل</strong>
 </p>
 
 <p align="center">
-  <img src="Screenshot/Screenshot2.png" width="50%" alt="حالت موبایل ">
+  <img src="Screenshot/Screenshot2.png" width="50%" alt="حالت موبایل">
 </p>
